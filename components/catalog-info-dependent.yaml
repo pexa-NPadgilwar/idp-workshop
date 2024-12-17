@@ -47,5 +47,5 @@ spec:
   providesApis:
     - petstore
 dependsOn:
-   - component:default/namratapadgilwar-service
+   - component:namratapadgilwar-service
 #  system: yournamehere-system
