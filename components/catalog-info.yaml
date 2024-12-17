@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: pexa-NPadgilwar-service
+  name: NPadgilwar-service
   description: |
     My first service
   links:
@@ -37,7 +37,7 @@ metadata:
     #jira/project-key: IDP
     ## Jira plugin - End
   tags:
-    - pexa-NPadgilwar
+    - NPadgilwar
 spec:
   type: service
   owner: pexa
